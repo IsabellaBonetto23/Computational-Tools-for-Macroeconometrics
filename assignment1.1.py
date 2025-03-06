@@ -150,7 +150,7 @@ axs = np.atleast_1d(axs)
 # The below line prints out the number of items in series_to_plot and series_names 🔢✅
 print(len(series_to_plot), len(series_names))  
 
-# We now have to run the whole following command from 1️⃣ to 1️⃣0️⃣: 
+# We now have to run the whole following command from 1️⃣ to 1️⃣1️⃣: 
                      
                                                                              
 for ax, series_name, plot_title in zip(axs, series_to_plot, series_names):   #1️⃣ Looping over Subplots and Variables and checking if the series exists. zip(axs, series_to_plot, series_names) → This line loops simultaneously over the subplots (ax), dataset columns (series_name), and their friendly names (plot_title).                                                                           
