@@ -76,7 +76,8 @@ Understanding these steps is essential for building robust economic forecasting 
 
 ---
 
-Feel free to adjust paths, usernames, contact info, and any other details as needed. This README provides an overview of the assignment, instructions for running the code, a description of each major section, and a brief discussion of the economic and econometric rationale behind the analysis.
+
+This README provides an overview of the assignment, instructions for running the code, a description of each major section, and a brief discussion of the economic and econometric rationale behind the analysis.
 
 
 
