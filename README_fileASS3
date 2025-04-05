@@ -1,0 +1,79 @@
+# Computational Tools for Macroeconometrics - Assignment 3
+
+### Killer Karps Group
+
+---
+
+## Overview
+
+This repository contains the Jupyter Notebook (`ASSIGNMENT3KILLERKARPSGROUP.ipynb`) submitted as part of the coursework for the Computational Tools for Macroeconometrics laboratory. The notebook addresses the tasks assigned in **Assignment 3**, focusing on advanced macroeconometric modeling and forecasting techniques.
+
+## Contents
+
+The notebook covers the following key areas:
+- **Data Preparation:**
+  - Importing and cleaning datasets.
+  - Handling missing data and ensuring data consistency.
+
+- **Econometric Analysis:**
+  - Implementation and estimation of macroeconometric models.
+  - Interpretation of estimation results.
+
+- **Forecasting Exercises:**
+  - Performing direct forecasts and ARX model forecasts.
+  - Evaluation of forecast accuracy.
+
+- **Visualization:**
+  - Clear graphical representations of results for enhanced interpretability.
+
+## Requirements
+
+The notebook was executed using Python 3.x and requires the following libraries:
+- `numpy`
+- `pandas`
+- `matplotlib`
+- `statsmodels`
+- `scipy`
+
+You can install these libraries using:
+
+```bash
+pip install numpy pandas matplotlib statsmodels scipy
+```
+
+## How to Run
+
+To run this notebook locally:
+
+1. Clone this repository:
+```bash
+git clone <repository-url>
+```
+
+2. Navigate to the folder:
+```bash
+cd <folder-name>
+```
+
+3. Launch Jupyter Notebook:
+```bash
+jupyter notebook
+```
+
+4. Open and execute `ASSIGNMENT3KILLERKARPSGROUP.ipynb`.
+
+## Contributors
+
+- [Your Name]
+- [Other Group Members' Names, if applicable]
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+*Submitted as part of the Computational Tools for Macroeconometrics laboratory coursework.*
+
